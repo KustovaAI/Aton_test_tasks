@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7hFegzOhoc+cNVu/d9ImE2lqawq+y1fWr0VOQO7r1xMmNCx4kWeYusDQim68Tz+ZwiPLtrxnyeHfctWV/XtnQ==",
+  "success": true,
+  "projectFilePath": "D:\\Nastya\\тестовые задания для резюме\\Aton\\web_C\\web_C\\web_C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Anastasiya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Anastasiya\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Anastasiya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Anastasiya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Anastasiya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
